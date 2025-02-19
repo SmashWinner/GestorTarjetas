@@ -21,7 +21,7 @@ El proyecto está compuesto por los siguientes archivos:
 
 1. Compila los archivos Java:
     ```sh
-    javac Main.java Clases/Cliente.java Clases/TarjetaCredito.java Clases/TarjetaDebito.java
+    javac Main.java 
     ```
 2. Ejecuta la aplicación:
     ```sh
